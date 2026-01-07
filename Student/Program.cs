@@ -488,28 +488,5 @@ namespace StudentManagement
         }
 
     }
-    /*class Student
-    {
-        public int ID { get; set; }
-        public String FirstName { get; set; }
-        public string LastName { get; set; }
-        public int Age { get; set; }
-        public string Village { get; set; }
-
-    }
-    public class MarkSheet
-    {
-        public int StudentId { get; set; }
-        public int Mathematics { get; set; }
-        public int Science { get; set; }
-        public int English { get; set; }
-        public int SocialScience { get; set; }
-        public int Hindi { get; set; }
-        public int Gujarati { get; set; }
-        public int ObtainedMark { get; set; }
-        public int TotalMark { get; set; }
-        public int Percentage { get; set; }
-        public string Grade { get; set; }
-        public string Result { get; set; }
-    }*/
+    
 }
